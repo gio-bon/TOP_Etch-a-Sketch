@@ -1,1 +1,2 @@
-# TOP_outro
+# TOP_Etch-a-Sketch
+- Recriação do jogo em uma página web, utilizando JavaScript e manipulação de elementos DOM. É possível escolher três cores para pintar os quadrados (cores geradas aleatoriamente) além do tamanho dos quadrados informado pelo usuário. Veja o [preview](https://htmlpreview.github.io/?https://github.com/gio-bon/TOP_Etch-a-Sketch/blob/main/index.html).
